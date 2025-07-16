@@ -9,7 +9,7 @@ A Flask-based web application for downloading YouTube videos and audio files wit
 - Metadata embedding for MP3 files (title, uploader, album, year, and thumbnail).
 - Responsive and modern UI with Tailwind CSS.
 
-## Prerequisites
+## Requirements
 
 1. Python 3.8+
 2. FFmpeg installed on your system (required for audio extraction)
