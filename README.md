@@ -18,7 +18,7 @@ A Flask-based web application for downloading YouTube videos and audio files wit
 
 Clone the repository:
 ```bash
-git clone https://github.com/J1xsmo/YouTubeDownloader
+git clone https://github.com/J1xsmo/YouTubeDownloader.git
 cd youtube-downloader
 ```
 
