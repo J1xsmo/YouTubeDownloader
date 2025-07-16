@@ -52,16 +52,16 @@ python main.py
 ## Project Structure
 ```
 youtube-downloader/
-├── main.py              # Main Flask application
-├── requirements.txt    # Project dependencies
-├── .gitignore          # Git ignore file
-├── README.md           # Project documentation
+├── main.py              
+├── requirements.txt   
+├── .gitignore          
+├── README.md          
 ├── templates/
-│   └── index.html      # HTML template for the frontend
+│   └── index.html     
 ├── static/
 │   ├── css/
-│   │   └── styles.css  # Custom CSS
+│   │   └── styles.css  
 │   └── js/
-│       └── script.js   # JavaScript logic
+│       └── script.js   
 └── downloads/          # Temporary storage for downloaded files
 ```
